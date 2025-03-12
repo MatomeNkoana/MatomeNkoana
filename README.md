@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UnsettledDev
-- 👀 I’m interested in Automated Tradeing
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on c++ and python codes on automated programs
+- 👋 Hi, I’m Katlego Nkoana
+- 👀 I’m interested in AI/Machine Learning and Cybersecurity
+- 🌱 I’m currently learning BSc in Chemistry and Computer Sciences
+- 💞️ I’m looking to collaborate on Software development projects that align with my qualification
 - 📫 How to reach me right here on Git
 
 <!---
